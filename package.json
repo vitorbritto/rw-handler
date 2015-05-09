@@ -1,5 +1,5 @@
 {
-  "name": "ioquerystring",
+  "name": "rwhandler",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vitorbritto/io-querystring"
+    "url": "https://github.com/vitorbritto/rw-handler"
   },
   "keywords": [
-    "ioquerystring"
+    "rwhandler"
   ],
   "author": "Vitor Britto <code@vitorbritto.com.br> (http://vitorbritto.com.br/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vitorbritto/io-querystring/issues"
+    "url": "https://github.com/vitorbritto/rw-handler/issues"
   },
-  "homepage": "https://github.com/vitorbritto/io-querystring",
+  "homepage": "https://github.com/vitorbritto/rw-handler",
   "devDependencies": {
     "chai": "*",
     "mocha": "*"
