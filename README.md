@@ -14,7 +14,7 @@
 var a       = 8,
     b       = 10,
     sum     = a + b,
-    msg     = 'You need to define a number object',
+    msg     = 'You need to define a number type',
     check   = typeof a !== 'number' || typeof b !== 'number';
 
 rwHandler(msg, check, sum);
