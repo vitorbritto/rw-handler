@@ -1,4 +1,4 @@
-# R/W Hanlder
+# R/W Handler
 
 "Read" data types and "Write" a message for an exception.
 
