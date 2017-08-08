@@ -24,7 +24,7 @@ rwHandler(msg, check, sum);
 
 ## Includes
 
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com/)
 
 
